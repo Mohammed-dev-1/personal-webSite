@@ -5,7 +5,9 @@
   --box-shadow-border: #0000000f;
   --box-border: #fff;
 }
-
+html{
+  scroll-behavior: smooth;
+}
 
 html > .carousel, body > .carousel {
   padding-top: 125px;
